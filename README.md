@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyberKite
-- 👀 I’m interested in food
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with cats
+- 👀 I’m interested in Food, Code, Frontend, Memes, Animals
+- 🌱 I’m currently learning basically nothing
+- 💞️ I’m looking to collaborate with noone so far
 - 📫 How to reach me: you won't
 - 🐱 meow
 
